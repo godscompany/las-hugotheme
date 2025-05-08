@@ -4,7 +4,7 @@
   class=""
   lang="en-us"
   itemtype="http://schema.org/WebPage">
-  <head>
+  <head><script src="/las-hugotheme/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=las-hugotheme/livereload" data-no-instant defer></script>
     
     <meta charset="utf-8" />
 
@@ -72,7 +72,7 @@
 
 
 
-  <base href="https://geelongairporttransfers.com.au/las-hugotheme/authors/" />
+  <base href="http://localhost:1313/las-hugotheme/authors/" />
 
 
 
@@ -158,8 +158,8 @@
       
       
       
-        <meta property="og:image" content="https://geelongairporttransfers.com.au/las-hugotheme/images/og-image.png" />
-        <meta name="twitter:image" content="https://geelongairporttransfers.com.au/las-hugotheme/images/og-image.png" />
+        <meta property="og:image" content="http://localhost:1313/las-hugotheme/images/og-image.png" />
+        <meta name="twitter:image" content="http://localhost:1313/las-hugotheme/images/og-image.png" />
         <meta
           name="twitter:card"
           content="summary_large_image" />
@@ -186,7 +186,7 @@
 <meta property="og:title" content="Authors" />
 <meta property="og:description" content="Lara Airport Services offers reliable, affordable, and comfortable airport transfers to and from Avalon and Melbourne Tullamarine airports. Serving suburbs across Victoria, we specialize in private and shared ride options tailored to your schedule and travel needs. With professional local drivers, upfront pricing, and door-to-door service, we make airport travel stress-free for families, business travellers, and tourists alike." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://geelongairporttransfers.com.au/las-hugotheme/authors/" />
+<meta property="og:url" content="http://localhost:1313/las-hugotheme/authors/" />
 
 
 <meta name="twitter:title" content="Authors" />
@@ -217,7 +217,7 @@
 
 
 <script>
-  let indexURL = "https://geelongairporttransfers.com.au/las-hugotheme/searchindex.json";
+  let indexURL = "http://localhost:1313/las-hugotheme/searchindex.json";
   let includeSectionsInSearch = ["blog"];
   let search_no_results = "No results for";
   let search_initial_message = "Type something to search..";
@@ -323,15 +323,12 @@
 
 
 
-  
-  
-
 
 
 
 <link
-  href="/las-hugotheme/css/style.min.e8202e771019655d20169cacb27c166beb674c56c7c04e854235f940cb614149.css"
-  integrity="sha256-6CAudxAZZV0gFpyssnwWa&#43;tnTFbHwE6FQjX5QMthQUk="
+  href="/las-hugotheme/css/style.css"
+  integrity=""
   rel="stylesheet" />
 
 
@@ -339,8 +336,8 @@
   defer
   async
   rel="stylesheet"
-  href="/las-hugotheme/css/style-lazy.min.9e7e035d2f064fe004383f2ffc11a8f2966ef7b51c5fb2fac926e35c0061b5cf.css"
-  integrity="sha256-nn4DXS8GT&#43;AEOD8v/BGo8pZu97UcX7L6ySbjXABhtc8="
+  href="/las-hugotheme/css/style-lazy.css"
+  integrity=""
   media="print"
   onload="this.media='all'; this.onload=null;" />
 
@@ -354,7 +351,18 @@
 
 
 
+
+
       
+      <div
+  class="fixed left-0 top-0 z-50 flex w-[30px] items-center justify-center bg-gray-200 py-[2.5px] text-[12px] uppercase text-black sm:bg-red-200 md:bg-yellow-200 lg:bg-green-200 xl:bg-blue-200 2xl:bg-pink-200">
+  <span class="block sm:hidden">all</span>
+  <span class="hidden sm:block md:hidden">sm</span>
+  <span class="hidden md:block lg:hidden">md</span>
+  <span class="hidden lg:block xl:hidden">lg</span>
+  <span class="hidden xl:block 2xl:hidden">xl</span>
+  <span class="hidden 2xl:block">2xl</span>
+</div>
 
     
 
@@ -881,7 +889,7 @@
 
 <ul class="mt-6 inline-flex space-x-1 capitalize">
   <li>
-    <a class="text-primary dark:text-darkmode-primary" href="https://geelongairporttransfers.com.au/las-hugotheme/">
+    <a class="text-primary dark:text-darkmode-primary" href="http://localhost:1313/las-hugotheme/">
       Home
     </a>
     <span class="inlin-block mr-1">/</span>
@@ -972,6 +980,9 @@
       
       
         
+
+        
+        
         
         
         
@@ -983,16 +994,35 @@
         
 
 
-        <img
-          
-            src="/las-hugotheme/images/avatar_hu_a99aee4491207c24.webp" loading="lazy"
-            decoding="async" alt="John Doe"
-          
-
-          class=" mx-auto mb-6 rounded img"
-          width="194"
-          height="194"
-          onerror="this.onerror='null';this.src='\/las-hugotheme\/images\/avatar.png';" />
+        <picture>
+          <source
+            
+              srcset="/las-hugotheme/images/service-3_hu_84dc2a5197ed3924.webp"
+            
+            media="(max-width: 575px)" />
+          <source
+            
+              srcset="/las-hugotheme/images/service-3_hu_60712024b1a32637.webp"
+            
+            media="(max-width: 767px)" />
+          <source
+            
+              srcset="/las-hugotheme/images/service-3_hu_b6dd50bda46bab7c.webp"
+            
+            media="(max-width: 991px)" />
+          <source
+            
+              srcset="/las-hugotheme/images/service-3_hu_3bfcf687b7debaf0.webp"
+             />
+          <img
+            
+              loading="lazy" decoding="async"
+              src="/las-hugotheme/images/service-3_hu_4cd915f767fde78.png"
+            class=" mx-auto mb-6 rounded img"
+            alt="Avalon Airport Transfers"
+            width="1600"
+            height="1200" />
+        </picture>
       
       
     
@@ -1005,33 +1035,12 @@
 
   
   <h4 class="mb-3">
-    <a href="/las-hugotheme/authors/john-doe/">John Doe</a>
+    <a href="/las-hugotheme/authors/avalon/">Avalon Airport Transfers</a>
   </h4>
   <p class="mb-4">
-    <p>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.</p>
+    <p>Traveling to or from Avalon Airport? Let us make it smooth and hassle-free. Our <strong>Avalon Airport Transfer Service</strong> is trusted by locals and visitors for its punctuality, comfort, and friendly service.</p>
   </p>
   <ul class="social-icons">
-    
-      <li>
-        <a href="https://github.com" target="_blank" rel="noopener nofollow">
-          <span class="sr-only"></span>
-          <i class="fa-brands fa-github"></i>
-        </a>
-      </li>
-    
-      <li>
-        <a href="https://twitter.com" target="_blank" rel="noopener nofollow">
-          <span class="sr-only"></span>
-          <i class="fa-brands fa-twitter"></i>
-        </a>
-      </li>
-    
-      <li>
-        <a href="https://linkedin.com" target="_blank" rel="noopener nofollow">
-          <span class="sr-only"></span>
-          <i class="fa-brands fa-linkedin"></i>
-        </a>
-      </li>
     
   </ul>
 </div>
@@ -1104,6 +1113,9 @@
       
       
         
+
+        
+        
         
         
         
@@ -1115,16 +1127,35 @@
         
 
 
-        <img
-          
-            src="/las-hugotheme/images/avatar_hu_a99aee4491207c24.webp" loading="lazy"
-            decoding="async" alt="Sam Wilson"
-          
-
-          class=" mx-auto mb-6 rounded img"
-          width="194"
-          height="194"
-          onerror="this.onerror='null';this.src='\/las-hugotheme\/images\/avatar.png';" />
+        <picture>
+          <source
+            
+              srcset="/las-hugotheme/images/service-2_hu_832b83fc8811c1d4.webp"
+            
+            media="(max-width: 575px)" />
+          <source
+            
+              srcset="/las-hugotheme/images/service-2_hu_9b0c9201097c639e.webp"
+            
+            media="(max-width: 767px)" />
+          <source
+            
+              srcset="/las-hugotheme/images/service-2_hu_7f266815ef858a90.webp"
+            
+            media="(max-width: 991px)" />
+          <source
+            
+              srcset="/las-hugotheme/images/service-2_hu_b9cc6f22b0ad148f.webp"
+             />
+          <img
+            
+              loading="lazy" decoding="async"
+              src="/las-hugotheme/images/service-2_hu_901396951092d915.png"
+            class=" mx-auto mb-6 rounded img"
+            alt="Melbourne Airport Transfers"
+            width="1600"
+            height="1200" />
+        </picture>
       
       
     
@@ -1137,33 +1168,12 @@
 
   
   <h4 class="mb-3">
-    <a href="/las-hugotheme/authors/sam-wilson/">Sam Wilson</a>
+    <a href="/las-hugotheme/authors/melbourne/">Melbourne Airport Transfers</a>
   </h4>
   <p class="mb-4">
-    <p>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.</p>
+    <p>Start or end your journey with ease. Our <strong>Melbourne Airport Transfer Service</strong> offers punctual, comfortable, and stress-free rides for individuals, families, and business travelers.</p>
   </p>
   <ul class="social-icons">
-    
-      <li>
-        <a href="https://github.com" target="_blank" rel="noopener nofollow">
-          <span class="sr-only"></span>
-          <i class="fa-brands fa-github"></i>
-        </a>
-      </li>
-    
-      <li>
-        <a href="https://twitter.com" target="_blank" rel="noopener nofollow">
-          <span class="sr-only"></span>
-          <i class="fa-brands fa-twitter"></i>
-        </a>
-      </li>
-    
-      <li>
-        <a href="https://linkedin.com" target="_blank" rel="noopener nofollow">
-          <span class="sr-only"></span>
-          <i class="fa-brands fa-linkedin"></i>
-        </a>
-      </li>
     
   </ul>
 </div>
@@ -1435,9 +1445,9 @@
               <a
                 
                 href="
-                  /las-hugotheme/elements
+                  /las-hugotheme/services
                 "
-                >Elements</a
+                >Services</a
               >
             </li>
           
@@ -1580,23 +1590,20 @@
 
 
 
-  
-  
-
 
 
 <script
   crossorigin="anonymous"
-  integrity="sha256-LO9JECYLqyMcpGlrtxZcpUn0I8AvhO6oIIibJZv4zbk="
-  src="/las-hugotheme/js/script.min.2cef4910260bab231ca4696bb7165ca549f423c02f84eea820889b259bf8cdb9.js"></script>
+  integrity=""
+  src="/las-hugotheme/js/script.js"></script>
 
 
 <script
   defer
   async
   crossorigin="anonymous"
-  integrity="sha256-6WomfiWXziApPR9exxy3xjT2w9Za&#43;OYxJPD02L7xe5A="
-  src="/las-hugotheme/js/script-lazy.min.e96a267e2597ce20293d1f5ec71cb7c634f6c3d65af8e63124f0f4d8bef17b90.js"></script>
+  integrity=""
+  src="/las-hugotheme/js/script-lazy.js"></script>
 
 
 
