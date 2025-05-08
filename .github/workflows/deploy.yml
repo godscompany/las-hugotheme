@@ -20,11 +20,17 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: npn init
-        run: npm init -y
+      - name: npn project setup
+        run: npm run project-setup
 
-      - name: tailwind
-        run: npm install -D tailwindcss postcss autoprefixer
+      - name: npn install
+        run: npm install
+
+#      - name: npn init
+#        run: npm init -y
+#
+#      - name: tailwind
+#        run: npm install -D tailwindcss postcss autoprefixer
 
       - name: Build
         run: hugo

@@ -1,53 +1,60 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Lara Airport Services"
+  content: "Lara Airport Services offers reliable, affordable, and comfortable airport transfers to and from Avalon and Melbourne Tullamarine airports. Serving suburbs across Victoria, we specialize in private and shared ride options tailored to your schedule and travel needs. With professional local drivers, upfront pricing, and door-to-door service, we make airport travel stress-free for families, business travellers, and tourists alike"
+  image: "/images/banner.jpg"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Book Now"
+    link: "contact/"
+#    link: {{< externallink 'booking_url' >}}
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Reliable Airport Transfers to Melbourne Tullamarine"
+    image: "/images/service-2.jpg"
+    content: "Start or end your journey stress-free with our professional airport transfer service to and from Melbourne Tullamarine Airport. We prioritize comfort, punctuality, and convenience."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Door-to-door private airport transfers"
+      - "Clean, modern, and air-conditioned vehicles"
+      - "24/7 service for early morning or late-night flights"
+      - "Experienced and courteous local drivers"
+      - "Fixed pricing with no hidden charges"
+      - "**Ideal for individuals, families, and business travelers**"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Book a Transfer"
+      link: "/contact"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Affordable Avalon Airport Transfers"
+    image: "/images/service-3.jpg"
+    content: "Travel with ease using our reliable transfer service to and from Avalon Airport. Whether you're flying in or out, we ensure a smooth, on-time, and comfortable ride tailored to your needs."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Private, door-to-door Avalon Airport transfers"
+      - "Spacious, clean, and air-conditioned vehicles"
+      - "Punctual service aligned with your flight schedule"
+      - "Local drivers with excellent route knowledge"
+      - "No surge pricing — flat rates guaranteed"
+      - "**Perfect for solo travelers, groups, and corporate clients**"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Book Now"
+      link: "/contact"
+
+  - title: "Experience Victoria with Our Tours"
+    image: "/images/service-1.jpg"
+    content: "Discover the best of Victoria with our premium private tours. Whether you're indulging in the rich flavors of local vineyards or exploring the breathtaking coastline along the Great Ocean Road, we’ve got you covered."
+    bulletpoints:
+      - "Scenic Great Ocean Road day trips"
+      - "Private Yarra Valley wine tours with tastings"
+      - "Comfortable, air-conditioned transport"
+      - "Friendly and knowledgeable local drivers"
+      - "Customizable itineraries for small groups"
+      - "**Perfect for couples, families, or corporate retreats**"
+    button:
+      enable: true
+      label: "Book Your Tour"
+      link: "/contact"
+
 ---

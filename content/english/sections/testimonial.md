@@ -1,29 +1,29 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "What Our Customers Are Saying About Our Airport Transfer Service"
+description: "Don’t just take our word for it—hear from some of our satisfied customers! Read their testimonials below to see why they trust us for their Melbourne Tullamarine and Avalon airport transfers."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Sarah Johnson"
+    designation: "Business Traveler"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "I have been using this airport transfer service for all my business trips, and it’s been fantastic! The drivers are always punctual, the cars are spotless, and I never have to worry about missing my flight. Highly recommend!"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "John Smith"
+    designation: "Family Vacationer"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "We used this service for our family trip to Melbourne, and it made everything so easy. The driver was friendly, and the vehicle was spacious and comfortable for our family. I will definitely book again for future trips."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Emily Wang"
+    designation: "Frequent Flyer"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "As a frequent traveler, I've tried several airport transfer services, but none compare to this one. Their commitment to punctuality and customer service is unmatched. I always feel at ease knowing I'll get to the airport on time."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "David Brown"
+    designation: "Tourist"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "My experience with this airport transfer service was amazing! The booking process was easy, and the driver provided excellent service, sharing local tips and recommendations for my stay in Melbourne. I felt like a VIP."
 
 # don't create a separate page
 build:
