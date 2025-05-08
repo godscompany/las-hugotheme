@@ -4,20 +4,39 @@
 [[main]]
 name = "Home"
 url = "/"
-weight = 1
+weight = 10
 
 [[main]]
 name = "About"
 url = "/about"
-weight = 2
+weight = 20
 
 [[main]]
 name = "Services"
-url = "/services"
-weight = 3
+weight = 30
 
 [[main]]
-weight = 4
+parent = "Services"
+name = "Melbourne Airport Transfer"
+url = "/services/melbourne"
+
+[[main]]
+parent = "Services"
+name = "Melbourne Airport Transfer"
+url = "/services/melbourne"
+
+[[main]]
+parent = "Services"
+name = "Avalon Airport Transfer"
+url = "/services/avalon"
+
+[[main]]
+parent = "Services"
+name = "Wineries Tours"
+url = "/services/wineries"
+
+[[main]]
+weight = 40
 name = "Pages"
 
 [[main]]
@@ -33,7 +52,7 @@ url = "/contact"
 [[main]]
 parent = "Pages"
 name = "Authors"
-url = "/authors"
+url = "/services"
 
 [[main]]
 parent = "Pages"
@@ -50,14 +69,14 @@ url = "/404"
 [[footer]]
 name = "About"
 url = "/about"
-weight = 1
+weight = 10
 
 [[footer]]
-name = "Elements"
-url = "/elements"
-weight = 2
+name = "Services"
+url = "/services"
+weight = 20
 
 [[footer]]
 name = "Privacy Policy"
 url = "/privacy-policy"
-weight = 3
+weight = 30

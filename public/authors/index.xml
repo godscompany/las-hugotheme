@@ -8,18 +8,18 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/las-hugotheme/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>John Doe</title>
-      <link>http://localhost:1313/las-hugotheme/authors/john-doe/</link>
+      <title>Avalon Airport Transfers</title>
+      <link>http://localhost:1313/las-hugotheme/authors/avalon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/las-hugotheme/authors/john-doe/</guid>
-      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/las-hugotheme/authors/avalon/</guid>
+      <description>&lt;p&gt;Traveling to or from Avalon Airport? Let us make it smooth and hassle-free. Our &lt;strong&gt;Avalon Airport Transfer Service&lt;/strong&gt; is trusted by locals and visitors for its punctuality, comfort, and friendly service.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sam Wilson</title>
-      <link>http://localhost:1313/las-hugotheme/authors/sam-wilson/</link>
+      <title>Melbourne Airport Transfers</title>
+      <link>http://localhost:1313/las-hugotheme/authors/melbourne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/las-hugotheme/authors/sam-wilson/</guid>
-      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/las-hugotheme/authors/melbourne/</guid>
+      <description>&lt;p&gt;Start or end your journey with ease. Our &lt;strong&gt;Melbourne Airport Transfer Service&lt;/strong&gt; offers punctual, comfortable, and stress-free rides for individuals, families, and business travelers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>William Jacob</title>
