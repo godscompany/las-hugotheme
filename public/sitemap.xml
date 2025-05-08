@@ -56,6 +56,8 @@
     <loc>http://localhost:1313/las-hugotheme/tags/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/las-hugotheme/about/</loc>
+  </url><url>
     <loc>http://localhost:1313/las-hugotheme/blog/geelong/aberfeldie/</loc>
   </url><url>
     <loc>http://localhost:1313/las-hugotheme/blog/geelong/aireys-inlet/</loc>
@@ -868,8 +870,6 @@
   </url><url>
     <loc>http://localhost:1313/las-hugotheme/pages/elements/</loc>
   </url><url>
-    <loc>http://localhost:1313/las-hugotheme/about/</loc>
-  </url><url>
     <loc>http://localhost:1313/las-hugotheme/authors/john-doe/</loc>
   </url><url>
     <loc>http://localhost:1313/las-hugotheme/pages/</loc>
@@ -881,5 +881,7 @@
     <loc>http://localhost:1313/las-hugotheme/sections/</loc>
   </url><url>
     <loc>http://localhost:1313/las-hugotheme/authors/william-jacob/</loc>
+  </url><url>
+    <loc>http://localhost:1313/las-hugotheme/services/</loc>
   </url>
 </urlset>
