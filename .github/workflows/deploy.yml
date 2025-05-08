@@ -19,6 +19,12 @@ jobs:
         with:
           hugo-version: 'latest'
 
+      - name: npn init
+        run: npm init -y
+
+      - name: tailwind
+        run: npm install -D tailwindcss postcss autoprefixer
+
       - name: Build
         run: hugo --minify
 
