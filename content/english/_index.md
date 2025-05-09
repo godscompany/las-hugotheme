@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Lara Airport Services"
-  content: "Lara Airport Services offers reliable, affordable, and comfortable airport transfers to and from Avalon and Melbourne Tullamarine airports. Serving suburbs across Victoria, we specialize in private and shared ride options tailored to your schedule and travel needs. With professional local drivers, upfront pricing, and door-to-door service, we make airport travel stress-free for families, business travellers, and tourists alike"
+  content: "Lara Airport Services offers reliable, affordable, and comfortable airport transfers to and from Avalon and Melbourne Tullamarine airports. Serving suburbs across Victoria, we specialise in private and shared ride options tailored to your schedule and travel needs. With professional local drivers, upfront pricing, and door-to-door service, we make airport travel stress-free for families, business travellers, and tourists alike"
   image: "/images/banner.jpg"
   button:
     enable: true
