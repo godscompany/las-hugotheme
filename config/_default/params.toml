@@ -28,7 +28,7 @@ contact_form_action = "https://formspree.io/f/mldjzzrj" # contact form works wit
 #google_tag_manager = "" # example: G-XXXXXXXXXX
 #google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
-#custom_script = "<script src="https://cdn.botpress.cloud/webchat/v2.3/inject.js"></script> <script src="https://files.bpcontent.cloud/2025/04/24/18/20250424182905-O37AAV58.js"></script>"
+#custom_script = "<script src=\"https://cdn.botpress.cloud/webchat/v2.3/inject.js\"></script> <script src=\"https://files.bpcontent.cloud/2025/04/24/18/20250424182905-O37AAV58.js\"></script>"
 # copyright
 copyright = "Designed & Developed by Lara Airport Services"
 
