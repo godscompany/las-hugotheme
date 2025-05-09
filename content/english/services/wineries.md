@@ -1,7 +1,7 @@
 ---
-title: Winery Tours from Geelong & Surrounds
+title: Winery Tours
 email: info@laraairportservices.com.au
-image: "/images/service-1.png"
+image: "/images/service-1.jpg"
 description: Explore the best of Victoria's wine country with our premium winery tour service.
 external:
   - name: Booking
@@ -36,3 +36,7 @@ Experience the beauty and flavors of **Victoria’s renowned wine regions** with
 - Couples and romantic getaways
 - Hens parties
 
+## 📅 Book Your Tour
+
+Ready for a relaxing wine-filled day?  
+[Book your winery tour »](../../contact)

@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Book Now"
-    link: "contact/"
+    link: "https://laraairportservices.square.site/s/appointments"
 #    link: {{< externallink 'booking_url' >}}
 
 # Features

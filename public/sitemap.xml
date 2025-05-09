@@ -6,6 +6,8 @@
   </url><url>
     <loc>http://localhost:1313/las-hugotheme/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/las-hugotheme/services/</loc>
+  </url><url>
     <loc>http://localhost:1313/las-hugotheme/blog/geelong/aberfeldie/</loc>
   </url><url>
     <loc>http://localhost:1313/las-hugotheme/blog/geelong/aireys-inlet/</loc>
@@ -831,8 +833,6 @@
     <loc>http://localhost:1313/las-hugotheme/sections/</loc>
   </url><url>
     <loc>http://localhost:1313/las-hugotheme/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/las-hugotheme/services/</loc>
   </url><url>
     <loc>http://localhost:1313/las-hugotheme/services/wineries/</loc>
   </url>

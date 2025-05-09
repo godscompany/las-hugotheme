@@ -7,62 +7,68 @@ url = "/"
 weight = 10
 
 [[main]]
-name = "About"
-url = "/about"
+name = "Services"
+url = "/services"
 weight = 20
 
+#[[main]]
+#parent = "Services"
+#name = "Melbourne Airport Transfer"
+#url = "/services/melbourne"
+
+#[[main]]
+#parent = "Services"
+#name = "Melbourne Airport Transfer"
+#url = "/services/melbourne"
+
+#[[main]]
+#parent = "Services"
+#name = "Avalon Airport Transfer"
+#url = "/services/avalon"
+
+#[[main]]
+#parent = "Services"
+#name = "Wineries Tours"
+#url = "/services/wineries"
+
 [[main]]
-name = "Services"
+name = "Contact"
+url = "/contact"
 weight = 30
 
 [[main]]
-parent = "Services"
-name = "Melbourne Airport Transfer"
-url = "/services/melbourne"
-
-[[main]]
-parent = "Services"
-name = "Melbourne Airport Transfer"
-url = "/services/melbourne"
-
-[[main]]
-parent = "Services"
-name = "Avalon Airport Transfer"
-url = "/services/avalon"
-
-[[main]]
-parent = "Services"
-name = "Wineries Tours"
-url = "/services/wineries"
-
-[[main]]
+name = "About"
+url = "/about"
 weight = 40
-name = "Pages"
 
-[[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
+#[[main]]
+#weight = 50
+#name = "Pages"
 
-[[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
+#[[main]]
+#parent = "Pages"
+#name = "Blog"
+#url = "/blog"
 
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "/services"
+#[[main]]
+#parent = "Pages"
+#name = "Contact"
+#url = "/contact"
 
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
+#[[main]]
+#parent = "Pages"
+#name = "Authors"
+#url = "/services"
 
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
+#[[main]]
+#parent = "Pages"
+#name = "Categories"
+#url = "/categories"
+
+#[[main]]
+#parent = "Pages"
+#name = "404 Page"
+#url = "/404"
 
 
 # footer menu

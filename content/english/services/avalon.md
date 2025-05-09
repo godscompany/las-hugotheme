@@ -1,7 +1,7 @@
 ---
 title: Avalon Airport Transfers
 email: info@laraairportservices.com.au
-image: "/images/service-3.png"
+image: "/images/service-3.jpg"
 description: Professional, reliable transfers to and from Avalon Airport.
 ---
 

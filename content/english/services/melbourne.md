@@ -1,7 +1,7 @@
 ---
 title: Melbourne Airport Transfers
 email: info@laraairportservices.com.au
-image: "/images/service-2.png"
+image: "/images/service-2.jpg"
 description: Professional airport transfer service to and from Melbourne Tullamarine Airport.
 ---
 
