@@ -31,29 +31,29 @@ weight = 20
 #name = "Wineries Tours"
 #url = "/services/wineries"
 
-[[main]]
-name = "Contact"
-url = "/contact"
-weight = 30
+#[[main]]
+#name = "Contact"
+#url = "/contact"
+#weight = 30
 
 [[main]]
 name = "About"
 url = "/about"
 weight = 40
 
-#[[main]]
-#weight = 50
-#name = "Pages"
+[[main]]
+weight = 50
+name = "Pages"
 
-#[[main]]
-#parent = "Pages"
-#name = "Blog"
-#url = "/blog"
+[[main]]
+parent = "Pages"
+name = "Blog"
+url = "/blog"
 
-#[[main]]
-#parent = "Pages"
-#name = "Contact"
-#url = "/contact"
+[[main]]
+parent = "Pages"
+name = "Contact"
+url = "/contact"
 
 #[[main]]
 #parent = "Pages"
@@ -84,5 +84,5 @@ weight = 20
 
 [[footer]]
 name = "Privacy Policy"
-url = "/privacy-policy"
+url = "pages/privacy-policy"
 weight = 30
